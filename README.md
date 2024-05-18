@@ -1,0 +1,9 @@
+# go-tidbits
+
+https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/
+
+https://github.com/uber-go/guide/blob/master/style.md
+
+https://brandur.org/fragments
+
+https://go.dev/doc/effective_go
