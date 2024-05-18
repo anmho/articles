@@ -7,3 +7,5 @@ https://github.com/uber-go/guide/blob/master/style.md
 https://brandur.org/fragments
 
 https://go.dev/doc/effective_go
+
+https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
