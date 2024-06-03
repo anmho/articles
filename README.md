@@ -9,3 +9,5 @@ https://brandur.org/fragments
 https://go.dev/doc/effective_go
 
 https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
+
+https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
