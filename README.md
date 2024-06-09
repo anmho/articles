@@ -11,3 +11,5 @@ https://go.dev/doc/effective_go
 https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 
 https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
+
+https://medium.com/@ebenjs/backend-important-concept-5-profiling-6b322111194d
