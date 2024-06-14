@@ -18,4 +18,8 @@ https://medium.com/@ebenjs/backend-important-concept-5-profiling-6b322111194d
 
 https://github.com/antonputra/tutorials/tree/main/lessons/145
 
-https://towardsdatascience.com/the-bias-variance-tradeoff-cf18d3ec54f9#:~:text=As%20the%20model's%20complexity%20increases,a%20moderate%20level%20of%20complexity.
+https://towardsdatascience.com/the-bias-variance-tradeoff-cf18d3ec54f9#:~:text=As%20the%20model's%20complexity%20increases,a%20moderate%20level%20of%20complexity. 
+
+https://jbrandhorst.com/post/go-protobuf-tips/
+
+
