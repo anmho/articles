@@ -22,4 +22,4 @@ https://towardsdatascience.com/the-bias-variance-tradeoff-cf18d3ec54f9#:~:text=A
 
 https://jbrandhorst.com/post/go-protobuf-tips/
 
-
+https://engineering.nanit.com/from-graphite-to-prometheus-things-ive-learned-e1d1e4b97fc
