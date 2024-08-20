@@ -35,3 +35,8 @@ https://www.uber.com/blog/freight-markov/
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3258234&uclick_id=1d74a210-2da8-49c4-ad20-ba92042e2050
 
 https://www.uber.com/blog/research/dynamic-pricing-and-matching-in-ride-hailing-platforms/
+
+https://www.semanticscholar.org/paper/Optimal-dynamic-pricing-of-inventories-with-demand-Gallego-Ryzin/5047f4eb460037988de612857814fe476bdf5c72?p2df
+
+https://blogs.cornell.edu/info2040/2018/09/20/bidding-to-catch-a-ride/
+
