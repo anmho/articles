@@ -31,3 +31,7 @@ https://brandur.org/idempotency-keys
 https://medium.com/inheaden/stripe-like-idempotency-keys-with-go-and-postgres-part-1-b69e25e5b1f0
 
 https://www.uber.com/blog/freight-markov/
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3258234&uclick_id=1d74a210-2da8-49c4-ad20-ba92042e2050
+
+https://www.uber.com/blog/research/dynamic-pricing-and-matching-in-ride-hailing-platforms/
