@@ -25,3 +25,7 @@ https://jbrandhorst.com/post/go-protobuf-tips/
 https://engineering.nanit.com/from-graphite-to-prometheus-things-ive-learned-e1d1e4b97fc
 
 https://stripe.com/blog/idempotency
+
+https://brandur.org/idempotency-keys
+
+https://medium.com/inheaden/stripe-like-idempotency-keys-with-go-and-postgres-part-1-b69e25e5b1f0
