@@ -40,3 +40,5 @@ https://www.semanticscholar.org/paper/Optimal-dynamic-pricing-of-inventories-wit
 
 https://blogs.cornell.edu/info2040/2018/09/20/bidding-to-catch-a-ride/
 
+https://searchengineland.com/guide/ppc/how-the-ppc-ad-auction-works
+
