@@ -29,3 +29,5 @@ https://stripe.com/blog/idempotency
 https://brandur.org/idempotency-keys
 
 https://medium.com/inheaden/stripe-like-idempotency-keys-with-go-and-postgres-part-1-b69e25e5b1f0
+
+https://www.uber.com/blog/freight-markov/
