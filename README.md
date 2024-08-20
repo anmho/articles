@@ -42,3 +42,8 @@ https://blogs.cornell.edu/info2040/2018/09/20/bidding-to-catch-a-ride/
 
 https://searchengineland.com/guide/ppc/how-the-ppc-ad-auction-works
 
+https://en.wikipedia.org/wiki/Bellman_equation
+
+https://en.wikipedia.org/wiki/Control_theory
+
+
