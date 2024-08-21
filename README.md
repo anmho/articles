@@ -46,4 +46,5 @@ https://en.wikipedia.org/wiki/Bellman_equation
 
 https://en.wikipedia.org/wiki/Control_theory
 
+https://microservices.io/patterns/data/saga.html
 
