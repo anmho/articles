@@ -44,6 +44,9 @@ https://searchengineland.com/guide/ppc/how-the-ppc-ad-auction-works
 
 https://en.wikipedia.org/wiki/Bellman_equation
 
+https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
+
+
 https://en.wikipedia.org/wiki/Control_theory
 
 https://microservices.io/patterns/data/saga.html
