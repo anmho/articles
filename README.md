@@ -46,6 +46,7 @@ https://en.wikipedia.org/wiki/Bellman_equation
 
 https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/
 
+https://zontroy.com/postgresql-to-go-type-mapping
 
 https://en.wikipedia.org/wiki/Control_theory
 
