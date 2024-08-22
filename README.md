@@ -55,3 +55,5 @@ https://microservices.io/patterns/data/saga.html
 https://golang.testcontainers.org/modules/postgres/#wait-strategies_1
 
 https://github.com/Developer-Y/Scalable-Software-Architecture?tab=readme-ov-file
+
+https://medium.com/@mahes0/golang-error-with-stack-trace-and-customized-user-message-d87cd847f599#:~:text=To%20have%20the%20stack%20trace,example%20of%20the%20stack%20trace.
