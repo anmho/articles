@@ -62,6 +62,8 @@ https://hackernoon.com/postgresql-transaction-isolation-levels-with-go-examples-
 
 https://stackoverflow.com/questions/3561381/custom-http-headers-naming-conventions
 
+https://docs.aws.amazon.com/decision-guides/latest/databases-on-aws-how-to-choose/databases-on-aws-how-to-choose.html
+
 https://www.postgresql.org/docs/16/index.html
 
 https://www.postgresql.org/docs/16/overview.html
