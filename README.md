@@ -68,6 +68,8 @@ https://github.com/facebook/rocksdb/wiki
 
 https://www.postgresql.org/docs/16/index.html
 
+https://shahriar.svbtle.com/Understanding-writethrough-writearound-and-writeback-caching-with-python
+
 https://www.postgresql.org/docs/16/overview.html
 
 https://github.com/cockroachdb
