@@ -1,3 +1,5 @@
+
+
 # go-tidbits
 
 https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/
@@ -73,4 +75,6 @@ https://shahriar.svbtle.com/Understanding-writethrough-writearound-and-writeback
 https://www.postgresql.org/docs/16/overview.html
 
 https://github.com/cockroachdb
+
+https://github.com/caarlos0/env
 
