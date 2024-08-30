@@ -76,5 +76,7 @@ https://www.postgresql.org/docs/16/overview.html
 
 https://github.com/cockroachdb
 
+https://github.com/joho/godotenv
+
 https://github.com/caarlos0/env
 
