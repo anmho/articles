@@ -78,6 +78,8 @@ https://github.com/cockroachdb
 
 https://github.com/joho/godotenv
 
+https://github.com/stripe-samples/accept-a-payment/blob/main/payment-element/client/react-cra/src/Completion.jsx
+
 https://github.com/caarlos0/env
 
 https://github.com/caarlos0/env
