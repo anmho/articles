@@ -85,3 +85,5 @@ https://github.com/caarlos0/env
 https://github.com/caarlos0/env
 
 https://docs.stripe.com/payments/checkout/guest-customers
+
+https://docs.stripe.com/checkout/fulfillment
