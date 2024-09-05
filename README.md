@@ -93,3 +93,5 @@ https://docs.stripe.com/checkout/fulfillment
 https://coolify.io/docs/knowledge-base/git/github/integration/
 
 https://medium.com/@thiagosalvatore/the-line-break-problem-when-using-server-sent-events-sse-1159632d09a0
+
+https://github.com/awslabs/aws-lambda-go-api-proxy
