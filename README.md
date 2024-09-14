@@ -97,3 +97,5 @@ https://medium.com/@thiagosalvatore/the-line-break-problem-when-using-server-sen
 https://github.com/awslabs/aws-lambda-go-api-proxy
 
 https://microsoft.github.io/code-with-engineering-playbook/automated-testing/shadow-testing/
+
+https://bacchi.org/posts/cdk-bundling-golang-functions/
