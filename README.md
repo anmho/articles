@@ -99,3 +99,5 @@ https://github.com/awslabs/aws-lambda-go-api-proxy
 https://microsoft.github.io/code-with-engineering-playbook/automated-testing/shadow-testing/
 
 https://bacchi.org/posts/cdk-bundling-golang-functions/
+
+https://binaryguy.tech/aws-cdk/adding-environment-variables-to-the-lambda-function-using-cdk/
