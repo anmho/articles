@@ -100,6 +100,9 @@ https://microsoft.github.io/code-with-engineering-playbook/automated-testing/sha
 
 https://bacchi.org/posts/cdk-bundling-golang-functions/
 
+https://medium.com/@snassr/dynamodb-with-go-golang-quickstart-e0e005b88e8f
+
+
 https://binaryguy.tech/aws-cdk/adding-environment-variables-to-the-lambda-function-using-cdk/
 
 https://dave.dev/blog/2021/07/14-07-2021-awsddb/
