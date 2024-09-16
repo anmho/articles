@@ -103,3 +103,5 @@ https://bacchi.org/posts/cdk-bundling-golang-functions/
 https://binaryguy.tech/aws-cdk/adding-environment-variables-to-the-lambda-function-using-cdk/
 
 https://dave.dev/blog/2021/07/14-07-2021-awsddb/
+
+https://dev.to/aws/run-and-test-dynamodb-applications-locally-using-docker-and-testcontainers-108i
