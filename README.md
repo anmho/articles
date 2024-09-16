@@ -108,3 +108,5 @@ https://binaryguy.tech/aws-cdk/adding-environment-variables-to-the-lambda-functi
 https://dave.dev/blog/2021/07/14-07-2021-awsddb/
 
 https://dev.to/aws/run-and-test-dynamodb-applications-locally-using-docker-and-testcontainers-108i
+
+https://jamiehurst.co.uk/2024-07-07_testing-golang-and-dynamodb-with-testcontainers
