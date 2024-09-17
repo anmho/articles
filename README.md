@@ -121,3 +121,6 @@ https://conermurphy.com/blog/aws-eventbridge-scheduler-cdk
 
 https://circleci.com/blog/deploy-aws-lambda-cdk/
 
+https://docs.aws.amazon.com/scheduler/latest/UserGuide/schedule-types.html
+
+
