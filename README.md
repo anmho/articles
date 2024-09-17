@@ -116,3 +116,5 @@ https://www.alexkates.dev/blog/how-to-trigger-an-aws-lambda-function-from-an-sqs
 https://pkg.go.dev/github.com/aws/aws-sdk-go-v2/service/scheduler
 
 https://www.serverlessfanatic.cloud/using-the-new-amazon-eventbridge-scheduler-to-send-reminder-notifications
+
+https://conermurphy.com/blog/aws-eventbridge-scheduler-cdk
