@@ -118,3 +118,6 @@ https://pkg.go.dev/github.com/aws/aws-sdk-go-v2/service/scheduler
 https://www.serverlessfanatic.cloud/using-the-new-amazon-eventbridge-scheduler-to-send-reminder-notifications
 
 https://conermurphy.com/blog/aws-eventbridge-scheduler-cdk
+
+https://circleci.com/blog/deploy-aws-lambda-cdk/
+
