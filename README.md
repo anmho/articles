@@ -110,3 +110,6 @@ https://dave.dev/blog/2021/07/14-07-2021-awsddb/
 https://dev.to/aws/run-and-test-dynamodb-applications-locally-using-docker-and-testcontainers-108i
 
 https://jamiehurst.co.uk/2024-07-07_testing-golang-and-dynamodb-with-testcontainers
+
+https://www.alexkates.dev/blog/how-to-trigger-an-aws-lambda-function-from-an-sqs-message
+
