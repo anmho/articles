@@ -114,3 +114,5 @@ https://jamiehurst.co.uk/2024-07-07_testing-golang-and-dynamodb-with-testcontain
 https://www.alexkates.dev/blog/how-to-trigger-an-aws-lambda-function-from-an-sqs-message
 
 https://pkg.go.dev/github.com/aws/aws-sdk-go-v2/service/scheduler
+
+https://www.serverlessfanatic.cloud/using-the-new-amazon-eventbridge-scheduler-to-send-reminder-notifications
