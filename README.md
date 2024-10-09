@@ -136,3 +136,5 @@ https://redis.io/docs/latest/develop/data-types/probabilistic/hyperloglogs/#:~:t
 https://datasketches.apache.org/
 
 https://github.com/apache/parquet-format
+
+https://datasketches.apache.org/docs/Quantiles/QuantilesSketchOverview.html
