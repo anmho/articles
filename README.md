@@ -128,3 +128,5 @@ https://go.dev/src/net/http/httptest/example_test.go
 https://www.karanpratapsingh.com/courses/system-design/geohashing-and-quadtrees
 
 https://www.pankajtanwar.in/blog/how-redis-expires-keys-a-deep-dive-into-how-ttl-works-internally-in-redis
+
+https://www.youtube.com/watch?v=UF9Iqmg94tk
