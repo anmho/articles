@@ -125,4 +125,6 @@ https://docs.aws.amazon.com/scheduler/latest/UserGuide/schedule-types.html
 
 https://go.dev/src/net/http/httptest/example_test.go
 
+https://www.karanpratapsingh.com/courses/system-design/geohashing-and-quadtrees
+
 
