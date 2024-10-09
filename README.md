@@ -130,3 +130,5 @@ https://www.karanpratapsingh.com/courses/system-design/geohashing-and-quadtrees
 https://www.pankajtanwar.in/blog/how-redis-expires-keys-a-deep-dive-into-how-ttl-works-internally-in-redis
 
 https://www.youtube.com/watch?v=UF9Iqmg94tk
+
+https://redis.io/docs/latest/develop/data-types/probabilistic/hyperloglogs/#:~:text=HyperLogLog%20is%20a%20probabilistic%20data,accuracy%20for%20efficient%20space%20utilization.
