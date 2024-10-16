@@ -144,3 +144,5 @@ https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca
 https://www.youtube.com/watch?v=wh98s0XhMmQ
 
 https://www.youtube.com/watch?v=bP4BeUjNkXc&t=120s
+
+https://golang.cafe/blog/golang-functional-options-pattern.html
