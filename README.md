@@ -1,6 +1,6 @@
 
 
-# go-tidbits
+# Resources
 
 https://engineering.mercari.com/en/blog/entry/20220408-how_to_use_t_parallel/
 
