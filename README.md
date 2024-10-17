@@ -146,3 +146,5 @@ https://www.youtube.com/watch?v=wh98s0XhMmQ
 https://www.youtube.com/watch?v=bP4BeUjNkXc&t=120s
 
 https://golang.cafe/blog/golang-functional-options-pattern.html
+
+https://medium.com/@danielarrais.dev/how-to-create-and-initialize-tables-in-a-local-dynamodb-with-docker-compose-notion-af22c3b603cb
