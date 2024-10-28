@@ -1,6 +1,9 @@
 # Essentials
 
-```git config --global push.default current```
+**To `git pull` and `git push` without specifying the upstream or branch**
+```
+git config --global push.default current
+```
 
 # Resources
 
