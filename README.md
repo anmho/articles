@@ -1,4 +1,6 @@
+# Essentials
 
+```git config --global push.default current```
 
 # Resources
 
