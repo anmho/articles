@@ -155,3 +155,5 @@ https://golang.cafe/blog/golang-functional-options-pattern.html
 https://medium.com/@danielarrais.dev/how-to-create-and-initialize-tables-in-a-local-dynamodb-with-docker-compose-notion-af22c3b603cb
 
 https://github.com/apache/datasketches-go
+
+https://www.jetbrains.com/help/datagrip/dynamodb.html#connect-to-dynamodb-database
