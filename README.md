@@ -159,3 +159,5 @@ https://github.com/apache/datasketches-go
 https://www.jetbrains.com/help/datagrip/dynamodb.html#connect-to-dynamodb-database
 
 https://antonputra.com/terraform/how-to-create-eks-cluster-using-terraform/#create-eks-cluster-using-terraform
+
+https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks
