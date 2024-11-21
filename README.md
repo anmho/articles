@@ -165,3 +165,6 @@ https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks
 https://kubernetes.io/docs/concepts/services-networking/
 
 https://engineering.fb.com/2019/06/06/data-center-engineering/twine/
+
+https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations
+
