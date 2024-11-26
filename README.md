@@ -172,3 +172,4 @@ https://www.conventionalcommits.org/en/v1.0.0-beta.2/
 
 https://github.com/orgs/community/discussions/116619
 
+https://cloud.google.com/run/docs/reference/yaml/v1#revision-name
