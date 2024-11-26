@@ -175,3 +175,6 @@ https://github.com/orgs/community/discussions/116619
 https://cloud.google.com/run/docs/reference/yaml/v1#revision-name
 
 https://cloud.google.com/run/docs/deploying
+
+https://helm.sh/docs/chart_template_guide/#the-chart-template-developer-s-guide
+
