@@ -179,3 +179,5 @@ https://cloud.google.com/run/docs/deploying
 https://helm.sh/docs/chart_template_guide/#the-chart-template-developer-s-guide
 
 https://github.com/google-github-actions/deploy-cloudrun/blob/07a7b6c4efab20a52aa35710084ce16bb70a7d3b/.github/workflows/deploy-cloudrun-it.yml#L183
+
+https://github.com/orgs/community/discussions/116619
