@@ -180,8 +180,10 @@ https://helm.sh/docs/chart_template_guide/#the-chart-template-developer-s-guide
 
 https://docs.github.com/en/enterprise-server@3.11/actions/writing-workflows/choosing-what-your-workflow-does/passing-information-between-jobs
 
-
 https://github.com/google-github-actions/deploy-cloudrun/blob/07a7b6c4efab20a52aa35710084ce16bb70a7d3b/.github/workflows/deploy-cloudrun-it.yml#L183
+
+https://en.wikipedia.org/wiki/Multicast
+
 
 https://github.com/orgs/community/discussions/116619
 
