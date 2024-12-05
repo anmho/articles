@@ -186,3 +186,5 @@ https://github.com/google-github-actions/deploy-cloudrun/blob/07a7b6c4efab20a52a
 https://github.com/orgs/community/discussions/116619
 
 https://testcontainers.com/guides/getting-started-with-testcontainers-for-go/
+
+https://stackoverflow.com/questions/24876188/how-big-is-the-chance-to-get-a-java-uuid-randomuuid-collision
