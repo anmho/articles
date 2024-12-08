@@ -190,3 +190,5 @@ https://github.com/orgs/community/discussions/116619
 https://testcontainers.com/guides/getting-started-with-testcontainers-for-go/
 
 https://stackoverflow.com/questions/24876188/how-big-is-the-chance-to-get-a-java-uuid-randomuuid-collision
+
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
