@@ -194,3 +194,5 @@ https://stackoverflow.com/questions/24876188/how-big-is-the-chance-to-get-a-java
 https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 
 https://storage.googleapis.com/gweb-research2023-media/pubtools/3851.pdf
+
+https://en.wikipedia.org/wiki/Graph_neural_network
