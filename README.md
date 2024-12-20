@@ -200,3 +200,5 @@ https://en.wikipedia.org/wiki/Graph_neural_network
 https://www.reddit.com/r/reactnative/comments/1gmpx1u/i_built_netflix_on_react_native/
 
 https://arxiv.org/abs/2403.13083
+
+https://arxiv.org/abs/1806.01973
