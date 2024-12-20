@@ -196,3 +196,5 @@ https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 https://storage.googleapis.com/gweb-research2023-media/pubtools/3851.pdf
 
 https://en.wikipedia.org/wiki/Graph_neural_network
+
+https://www.reddit.com/r/reactnative/comments/1gmpx1u/i_built_netflix_on_react_native/
