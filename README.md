@@ -210,3 +210,5 @@ https://github.com/bokwoon95/wgo
 https://en.wikipedia.org/wiki/WebSocket
 
 https://github.com/arpitbbhayani/system-design-questions/tree/master
+
+https://liuzhenglaichn.gitbook.io/system-design/advanced/consistent-hashing
