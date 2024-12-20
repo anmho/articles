@@ -204,3 +204,5 @@ https://arxiv.org/abs/2403.13083
 https://arxiv.org/abs/1806.01973
 
 https://pkg.go.dev/golang.org/x/sync/errgroup
+
+https://github.com/bokwoon95/wgo
