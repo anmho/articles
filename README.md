@@ -202,3 +202,5 @@ https://www.reddit.com/r/reactnative/comments/1gmpx1u/i_built_netflix_on_react_n
 https://arxiv.org/abs/2403.13083
 
 https://arxiv.org/abs/1806.01973
+
+https://pkg.go.dev/golang.org/x/sync/errgroup
