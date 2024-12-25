@@ -224,3 +224,7 @@ https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-T
 https://goreleaser.com/customization/homebrew/
 
 https://www.youtube.com/watch?v=-W9F__D3oY4&t=5090s
+
+https://go.dev/blog/protobuf-opaque
+
+https://protobuf.dev/reference/go/opaque-migration/
