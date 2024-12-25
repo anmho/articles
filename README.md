@@ -218,3 +218,5 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
 https://www.reddit.com/r/RedditEng/s/dTsOBppzT8
 
 https://greeeg.com/en/issues/how-to-create-release-distribute-cli-golang
+
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
