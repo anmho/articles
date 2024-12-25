@@ -222,3 +222,5 @@ https://greeeg.com/en/issues/how-to-create-release-distribute-cli-golang
 https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
 
 https://goreleaser.com/customization/homebrew/
+
+https://www.youtube.com/watch?v=-W9F__D3oY4&t=5090s
