@@ -216,3 +216,5 @@ https://liuzhenglaichn.gitbook.io/system-design/advanced/consistent-hashing
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
 
 https://www.reddit.com/r/RedditEng/s/dTsOBppzT8
+
+https://greeeg.com/en/issues/how-to-create-release-distribute-cli-golang
