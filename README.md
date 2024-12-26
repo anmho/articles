@@ -234,3 +234,5 @@ https://en.wikipedia.org/wiki/Anycast
 https://cloud.google.com/sdk/gcloud/reference/run/services/replace
 
 https://github.com/connectrpc/authn-go
+
+https://en.wikipedia.org/wiki/Gather/scatter_(vector_addressing)
