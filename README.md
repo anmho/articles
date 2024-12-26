@@ -236,3 +236,5 @@ https://cloud.google.com/sdk/gcloud/reference/run/services/replace
 https://github.com/connectrpc/authn-go
 
 https://en.wikipedia.org/wiki/Gather/scatter_(vector_addressing)
+
+https://cloud.google.com/blog/topics/developers-practitioners/implementing-leader-election-google-cloud-storage
