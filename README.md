@@ -232,3 +232,5 @@ https://protobuf.dev/reference/go/opaque-migration/
 https://en.wikipedia.org/wiki/Anycast
 
 https://cloud.google.com/sdk/gcloud/reference/run/services/replace
+
+https://github.com/connectrpc/authn-go
