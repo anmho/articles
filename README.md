@@ -246,3 +246,5 @@ https://cloud.google.com/stackdriver/docs/managed-prometheus/cloudrun-sidecar
 https://pytorch.org/blog/flexattention/
 
 https://en.wikipedia.org/wiki/Subnormal_number
+
+https://en.wikipedia.org/wiki/Single-precision_floating-point_format
