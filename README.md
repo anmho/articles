@@ -242,3 +242,5 @@ https://cloud.google.com/blog/topics/developers-practitioners/implementing-leade
 https://cloud.google.com/blog/products/management-tools/cloud-run-now-supports-managed-service-for-prometheus
 
 https://cloud.google.com/stackdriver/docs/managed-prometheus/cloudrun-sidecar
+
+https://pytorch.org/blog/flexattention/
