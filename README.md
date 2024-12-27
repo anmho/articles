@@ -248,3 +248,5 @@ https://pytorch.org/blog/flexattention/
 https://en.wikipedia.org/wiki/Subnormal_number
 
 https://en.wikipedia.org/wiki/Single-precision_floating-point_format
+
+https://www.youtube.com/watch?v=pzDwYHRzEnk
