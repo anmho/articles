@@ -240,3 +240,5 @@ https://en.wikipedia.org/wiki/Gather/scatter_(vector_addressing)
 https://cloud.google.com/blog/topics/developers-practitioners/implementing-leader-election-google-cloud-storage
 
 https://cloud.google.com/blog/products/management-tools/cloud-run-now-supports-managed-service-for-prometheus
+
+https://cloud.google.com/stackdriver/docs/managed-prometheus/cloudrun-sidecar
