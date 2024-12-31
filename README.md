@@ -250,3 +250,5 @@ https://en.wikipedia.org/wiki/Subnormal_number
 https://en.wikipedia.org/wiki/Single-precision_floating-point_format
 
 https://www.youtube.com/watch?v=pzDwYHRzEnk
+
+https://ectobit.com/blog/pgx-v5-3/
