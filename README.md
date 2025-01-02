@@ -252,3 +252,5 @@ https://en.wikipedia.org/wiki/Single-precision_floating-point_format
 https://www.youtube.com/watch?v=pzDwYHRzEnk
 
 https://ectobit.com/blog/pgx-v5-3/
+
+https://engineering.fb.com/2013/06/25/core-infra/tao-the-power-of-the-graph/
