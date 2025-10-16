@@ -266,3 +266,7 @@ https://github.com/bytedance/monolith/tree/master/markdown/demo
 https://www.ibm.com/think/topics/feature-engineering
 
 https://www.ibm.com/think/topics/multicollinearity
+
+https://www.ibm.com/think/topics/principal-component-analysis
+
+https://www.ibm.com/think/topics/linear-discriminant-analysis
