@@ -270,3 +270,5 @@ https://www.ibm.com/think/topics/multicollinearity
 https://www.ibm.com/think/topics/principal-component-analysis
 
 https://www.ibm.com/think/topics/linear-discriminant-analysis
+
+https://en.wikipedia.org/wiki/One-hot
