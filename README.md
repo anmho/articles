@@ -284,3 +284,5 @@ https://medium.com/@niruthiha2000/allreduce-explained-the-key-to-efficient-distr
 https://www.shaped.ai/blog/the-two-tower-model-for-recommendation-systems-a-deep-dive
 
 https://en.wikipedia.org/wiki/Genetic_algorithm
+
+https://research.facebook.com/publications/rocksdb-evolution-of-development-priorities-in-a-key-value-store-serving-large-scale-applications/
