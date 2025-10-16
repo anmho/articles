@@ -282,3 +282,5 @@ https://en.wikipedia.org/wiki/B-tree
 https://medium.com/@niruthiha2000/allreduce-explained-the-key-to-efficient-distributed-training-2cbbcc871832
 
 https://www.shaped.ai/blog/the-two-tower-model-for-recommendation-systems-a-deep-dive
+
+https://en.wikipedia.org/wiki/Genetic_algorithm
