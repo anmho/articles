@@ -278,3 +278,5 @@ https://en.wikipedia.org/wiki/Circular_buffer
 https://en.wikipedia.org/wiki/Fenwick_tree
 
 https://en.wikipedia.org/wiki/B-tree
+
+https://medium.com/@niruthiha2000/allreduce-explained-the-key-to-efficient-distributed-training-2cbbcc871832
