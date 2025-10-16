@@ -273,5 +273,6 @@ https://www.ibm.com/think/topics/linear-discriminant-analysis
 
 https://en.wikipedia.org/wiki/One-hot
 
-
 https://en.wikipedia.org/wiki/Circular_buffer
+
+https://en.wikipedia.org/wiki/Fenwick_tree
