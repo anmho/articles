@@ -254,3 +254,9 @@ https://www.youtube.com/watch?v=pzDwYHRzEnk
 https://ectobit.com/blog/pgx-v5-3/
 
 https://engineering.fb.com/2013/06/25/core-infra/tao-the-power-of-the-graph/
+
+https://rwc.iacr.org/2019/slides/snap.pdf
+
+https://www.ietf.org/archive/id/draft-ietf-oauth-transaction-tokens-00.html
+
+https://arxiv.org/pdf/2209.07663
