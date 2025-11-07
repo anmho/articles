@@ -294,3 +294,6 @@ https://arxiv.org/abs/1806.01973
 https://en.wikipedia.org/wiki/Catastrophic_interference
 
 https://agorism.dev/book/finance/%28Wiley%20Trading%29%20Ernie%20Chan%20-%20Algorithmic%20Trading_%20Winning%20Strategies%20and%20Their%20Rationale-Wiley%20%282013%29.pdf
+
+
+https://sre.google/workbook/managing-load/
