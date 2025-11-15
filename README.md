@@ -297,3 +297,5 @@ https://agorism.dev/book/finance/%28Wiley%20Trading%29%20Ernie%20Chan%20-%20Algo
 
 
 https://sre.google/workbook/managing-load/
+
+https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model
