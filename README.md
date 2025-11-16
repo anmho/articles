@@ -301,3 +301,6 @@ https://sre.google/workbook/managing-load/
 https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model
 
 https://www.youtube.com/watch?v=ilgpzlE7Hds&embeds_referring_euri=https%3A%2F%2Fgemini.google.com%2F&embeds_referring_origin=https%3A%2F%2Fgemini.google.com&source_ve_path=MjM4NTE
+
+
+https://github.com/supabase/auth
