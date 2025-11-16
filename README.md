@@ -304,3 +304,6 @@ https://www.youtube.com/watch?v=ilgpzlE7Hds&embeds_referring_euri=https%3A%2F%2F
 
 
 https://github.com/supabase/auth
+
+
+https://medium.com/deno-the-complete-reference/bun-vs-go-how-faster-is-machine-code-compared-to-interpreted-code-for-jwt-sign-verify-6ff261178828
