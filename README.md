@@ -310,3 +310,5 @@ https://medium.com/deno-the-complete-reference/bun-vs-go-how-faster-is-machine-c
 
 
 https://www.youtube.com/watch?v=sELryGUfzMg
+
+https://learningdaily.dev/techniques-for-handling-traffic-spikes-in-system-design-fde26b4d2c0e
