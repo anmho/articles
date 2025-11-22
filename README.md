@@ -318,3 +318,5 @@ https://research.google/pubs/
 
 
 https://en.wikipedia.org/wiki/Byzantine_fault
+
+https://www.twingate.com/blog/glossary/sybil%20attack
