@@ -316,3 +316,5 @@ https://learningdaily.dev/techniques-for-handling-traffic-spikes-in-system-desig
 
 https://research.google/pubs/
 
+
+https://en.wikipedia.org/wiki/Byzantine_fault
