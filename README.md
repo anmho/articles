@@ -321,3 +321,5 @@ https://en.wikipedia.org/wiki/Byzantine_fault
 
 https://www.twingate.com/blog/glossary/sybil%20attack
 https://en.wikipedia.org/wiki/Log-structured_merge-tree
+
+https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system
