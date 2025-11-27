@@ -359,3 +359,4 @@ https://en.bitcoin.it/wiki/Script
 
 https://en.wikipedia.org/wiki/Off-the-record_messaging
 https://www.gemini.com/cryptopedia/what-is-a-liquidity-pool-crypto-market-liquidity
+https://www.postgresql.org/docs/current/transaction-iso.html#XACT-REPEATABLE-READ
