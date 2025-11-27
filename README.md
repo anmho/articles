@@ -328,3 +328,7 @@ https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colos
 https://cloud.google.com/spanner/docs/whitepapers/life-of-query
 
 https://www.xipu.li/
+
+
+https://en.wikipedia.org/wiki/Log-structured_merge-tree
+
