@@ -340,3 +340,6 @@ https://bitcoin.org/bitcoin.pdf
 https://en.wikipedia.org/wiki/Bitcoin?utm_source=chatgpt.com#Blockchain
 
 https://cloud.google.com/spanner/docs/whitepapers/life-of-query
+
+
+https://www.youtube.com/watch?v=TD3-INhm60Q
