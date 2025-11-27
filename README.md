@@ -343,3 +343,4 @@ https://cloud.google.com/spanner/docs/whitepapers/life-of-query
 
 
 https://www.youtube.com/watch?v=TD3-INhm60Q
+https://www.okta.com/identity-101/role-based-access-control-vs-attribute-based-access-control/
