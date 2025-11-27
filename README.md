@@ -354,3 +354,5 @@ https://en.wikipedia.org/wiki/Proof_of_stake?utm_source=chatgpt.com
 https://en.wikipedia.org/wiki/UTM_parameters?utm_source=chatgpt.com
 
 https://redis.io/blog/the-endless-redis-replication-loop-what-why-and-how-to-solve-it/
+
+https://en.bitcoin.it/wiki/Script
