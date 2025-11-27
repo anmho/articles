@@ -358,3 +358,4 @@ https://redis.io/blog/the-endless-redis-replication-loop-what-why-and-how-to-sol
 https://en.bitcoin.it/wiki/Script
 
 https://en.wikipedia.org/wiki/Off-the-record_messaging
+https://www.gemini.com/cryptopedia/what-is-a-liquidity-pool-crypto-market-liquidity
