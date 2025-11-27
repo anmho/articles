@@ -334,3 +334,5 @@ https://en.wikipedia.org/wiki/Log-structured_merge-tree
 
 
 https://www.youtube.com/watch?v=8dz0riI13j8
+
+https://bitcoin.org/bitcoin.pdf
