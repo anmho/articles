@@ -372,3 +372,5 @@ https://github.com/JumpCrypto/crypto-reading-list
 https://en.wikipedia.org/wiki/Zero-knowledge_proof
 https://en.wikipedia.org/wiki/JSON-RPC
 https://github.com/ethereumbook/ethereumbook
+
+https://solidity-by-example.org/
