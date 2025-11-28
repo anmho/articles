@@ -374,3 +374,4 @@ https://en.wikipedia.org/wiki/JSON-RPC
 https://github.com/ethereumbook/ethereumbook
 
 https://solidity-by-example.org/
+https://app.uniswap.org/whitepaper.pdf
