@@ -364,3 +364,6 @@ https://www.postgresql.org/docs/current/transaction-iso.html#XACT-REPEATABLE-REA
 https://github.com/catppuccin/vim
 
 https://mahadewa.org/
+
+
+https://getfoundry.sh/introduction/getting-started
