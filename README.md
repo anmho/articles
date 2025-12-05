@@ -381,3 +381,5 @@ https://solana.com/developers/cookbook
 
 https://www.youtube.com/watch?v=kWLed8o5M2Y&t=911s
 https://substack.com/@thecodinggopher
+
+https://teachyourselfcs.com/
