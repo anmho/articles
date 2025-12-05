@@ -378,3 +378,5 @@ https://app.uniswap.org/whitepaper.pdf
 
 https://consensysdiligence.github.io/smart-contract-best-practices/
 https://solana.com/developers/cookbook
+
+https://www.youtube.com/watch?v=kWLed8o5M2Y&t=911s
