@@ -385,3 +385,5 @@ https://substack.com/@thecodinggopher
 https://teachyourselfcs.com/
 
 https://arxiv.org/abs/2502.18535#:~:text=domains%2C%20concerns%20over%20data%20privacy,has%20explored%20the%20verifiable%20machine
+
+https://teachyourselfcs.com/
