@@ -407,3 +407,5 @@ https://google.github.io/styleguide/go/
 https://github.com/uber-go/guide/blob/master/style.md
 
 https://www.gitbook.com/
+
+https://stanford-cs329s.github.io/syllabus.html
