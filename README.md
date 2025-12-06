@@ -403,3 +403,5 @@ https://redis.io/blog/the-endless-redis-replication-loop-what-why-and-how-to-sol
 https://redis.io/blog/the-endless-redis-replication-loop-what-why-and-how-to-solve-it/
 
 https://google.github.io/styleguide/go/
+
+https://github.com/uber-go/guide/blob/master/style.md
