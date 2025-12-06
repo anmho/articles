@@ -405,3 +405,5 @@ https://redis.io/blog/the-endless-redis-replication-loop-what-why-and-how-to-sol
 https://google.github.io/styleguide/go/
 
 https://github.com/uber-go/guide/blob/master/style.md
+
+https://www.gitbook.com/
