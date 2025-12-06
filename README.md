@@ -401,3 +401,5 @@ https://saaslandingpage.com/
 https://redis.io/blog/the-endless-redis-replication-loop-what-why-and-how-to-solve-it/
 
 https://redis.io/blog/the-endless-redis-replication-loop-what-why-and-how-to-solve-it/
+
+https://google.github.io/styleguide/go/
