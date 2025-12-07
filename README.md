@@ -409,3 +409,4 @@ https://github.com/uber-go/guide/blob/master/style.md
 https://www.gitbook.com/
 
 https://stanford-cs329s.github.io/syllabus.html
+https://www.youtube.com/playlist?list=PL4vIlcoXNC-ztl31g2mvM4l3JLAHCoxoG
