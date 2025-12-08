@@ -412,3 +412,6 @@ https://stanford-cs329s.github.io/syllabus.html
 https://www.youtube.com/playlist?list=PL4vIlcoXNC-ztl31g2mvM4l3JLAHCoxoG
 
 https://www.youtube.com/watch?v=1tZhmTnk-vc
+
+
+https://en.wikipedia.org/wiki/Circular_buffer
