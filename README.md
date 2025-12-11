@@ -415,3 +415,5 @@ https://www.youtube.com/watch?v=1tZhmTnk-vc
 
 
 https://en.wikipedia.org/wiki/Circular_buffer
+
+https://www.uber.com/blog/ringpop-open-source-nodejs-library/
