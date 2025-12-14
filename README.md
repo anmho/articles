@@ -419,3 +419,7 @@ https://en.wikipedia.org/wiki/Circular_buffer
 https://www.uber.com/blog/ringpop-open-source-nodejs-library/
 
 https://systemsinpixels.com/blog/redis-internal
+
+https://www.youtube.com/watch?v=DU8o-OTeoCc
+
+
