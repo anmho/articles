@@ -428,3 +428,6 @@ https://www.youtube.com/watch?v=DU8o-OTeoCc
 https://ptgmedia.pearsoncmg.com/images/9780321842688/samplepages/0321842685.pdf
 
 https://tonsky.me/blog/unicode/
+
+https://www.reedbeta.com/blog/programmers-intro-to-unicode/
+
