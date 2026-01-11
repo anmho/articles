@@ -433,3 +433,5 @@ https://www.reedbeta.com/blog/programmers-intro-to-unicode/
 
 
 https://www.youtube.com/watch?v=GMF2Z1EZHXk
+
+https://utf8everywhere.org/
