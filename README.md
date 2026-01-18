@@ -446,3 +446,5 @@ https://arxiv.org/abs/2412.09871
 https://arxiv.org/abs/2304.08467
 
 https://guillaume-be.github.io/2021-09-16/byte_pair_encoding
+
+https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-faster-more-flexible-byte-pair-tokenizer/
