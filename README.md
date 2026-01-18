@@ -444,3 +444,5 @@ https://arxiv.org/abs/2210.03629
 https://arxiv.org/abs/2412.09871
 
 https://arxiv.org/abs/2304.08467
+
+https://guillaume-be.github.io/2021-09-16/byte_pair_encoding
