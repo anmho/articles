@@ -452,3 +452,5 @@ https://github.blog/ai-and-ml/llms/so-many-tokens-so-little-time-introducing-a-f
 https://cognition.ai/blog/dont-build-multi-agents#a-theory-of-building-long-running-agents
 
 https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/
+
+https://joshrosso.com/c/ring-buffer/
