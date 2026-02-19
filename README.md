@@ -456,3 +456,5 @@ https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/
 https://joshrosso.com/c/ring-buffer/
 
 https://www.youtube.com/watch?v=McLdlg5Gc9s
+
+https://github.com/vllm-project/vllm
