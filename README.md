@@ -454,3 +454,5 @@ https://cognition.ai/blog/dont-build-multi-agents#a-theory-of-building-long-runn
 https://redis.io/docs/latest/develop/clients/patterns/distributed-locks/
 
 https://joshrosso.com/c/ring-buffer/
+
+https://www.youtube.com/watch?v=McLdlg5Gc9s
